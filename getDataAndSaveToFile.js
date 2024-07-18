@@ -1,4 +1,4 @@
-// getDataAndSaveToFile.js
+// getDataAndSaveToFile.js это файл для задания 15.2
 const axios = require('axios');
 const fs = require('fs');
 
